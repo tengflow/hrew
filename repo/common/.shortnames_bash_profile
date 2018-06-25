@@ -1,0 +1,14 @@
+
+alias l="ls -ahl"
+alias ll="ls -ahl"
+alias ..="cd .."
+alias ..2="cd ../.."
+alias ..3="cd ../../.."
+alias ..4="cd ../../../.."
+alias ..5="cd ../../../../.."
+
+alias a="alias"
+alias ip="ifconfig"
+alias h="sudo vi /etc/hosts"
+alias p="vi ~/.bash_profile"
+alias sp="source ~/.bash_profile"
